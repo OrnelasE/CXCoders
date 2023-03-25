@@ -1,0 +1,4 @@
+Name: Eduardo Ornelas
+CECID: eornelas
+Company: Cisco
+Stock's information: Stock's Number: 10200 Stock's value: 1000
